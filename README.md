@@ -1,5 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+## projeto a ser finalizado até o fim do prazo de encerramento do bootcaamp
+
 ### Template
 
 ```markdown
